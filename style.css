@@ -1,0 +1,74 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+.container
+{
+    padding: 20px;
+}
+.section-one {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+.section-one__para
+{
+    color: grey;
+    font-size: 20px;
+    
+}
+
+.section-two
+{
+    text-align: center;
+}
+
+.section-two__card
+{
+    display: inline-block;
+    height: 300px;
+    border: solid black 2px;
+    margin-top: 20px;
+    
+}
+
+img
+{
+    height: 200px;
+    width: 250px;
+}
+
+button
+{
+    margin-top: 5px;
+    background-color: black;
+    color: whitesmoke;
+    padding: 10px;
+}
+.section-three
+{
+    margin-top: 20px;
+    background-color: black;
+    color: white;
+
+}
+.section-three__title
+{
+    text-align: center;
+}
+
+table
+{
+    display: inline-block;
+    margin-right: auto;
+    margin-left: auto;
+}
+#btn2
+{
+    background-color: yellow;
+    color: black;
+    padding-right: 150px;
+    padding-left: 150px;
+}
